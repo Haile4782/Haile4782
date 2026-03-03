@@ -68,8 +68,8 @@ With a foundation in **Electrical & Computer Engineering**, I’m passionate abo
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Haile4782&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Haile4782&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haile4782&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haile4782&layout=compact&theme=tokyonight)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Haile4782&color=blue)
