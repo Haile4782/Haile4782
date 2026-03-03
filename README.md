@@ -37,8 +37,8 @@ With a foundation in **Electrical & Computer Engineering**, I’m passionate abo
 
 ## 🎓 Education & Certifications
 - **BSc in Electrical & Computer Engineering** – Mizan Tepi University  
-- **ALX Data Science Program** – Python, ML, Statistics  
-- **Certifications:** Python, Data Analytics, AI Fundamentals (Udacity, Coursera)
+- **Datanomics Data Analytics and ALX Data Science Program** – Python, ML, Statistics  
+- **Certifications:** Python, Data Analytics, AI Fundamentals
 
 ---
 
