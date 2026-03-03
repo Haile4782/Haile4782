@@ -42,12 +42,14 @@ With a foundation in **Electrical & Computer Engineering**, I’m passionate abo
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000?logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=google-sheets&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange)
+![Data Science](https://img.shields.io/badge/Data%20Science-1E4D2B?logo=scikitlearn&logoColor=white)
 
 ---
 
@@ -67,8 +69,9 @@ With a foundation in **Electrical & Computer Engineering**, I’m passionate abo
 
 ---
 
-## 📈 GitHub Stats
-![GitHub followers](https://img.shields.io/github/followers/Haile4782?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Haile4782?label=Stars&style=social)
+## 📈 GitHub Profile Insights
 
+![Followers](https://img.shields.io/github/followers/Haile4782?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/Haile4782?label=Stars&style=social)
+![Repos](https://img.shields.io/github/repos/Haile4782?color=blue)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Haile4782&color=blue)
