@@ -73,5 +73,5 @@ With a foundation in **Electrical & Computer Engineering**, I’m passionate abo
 
 ![Followers](https://img.shields.io/github/followers/Haile4782?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/Haile4782?label=Stars&style=social)
-![Repos](https://img.shields.io/github/repos/Haile4782?color=blue)
+![Repos](https://img.shields.io/badge/Public%20Repos-7-blue) <!-- update manually -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=Haile4782&color=blue)
