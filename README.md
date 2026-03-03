@@ -18,9 +18,7 @@ With a foundation in **Electrical & Computer Engineering**, I’m passionate abo
 - 🧠 Machine Learning & AI  
 - 📊 Data Analytics & Visualization  
 - ⚙️ Predictive Maintenance & Industrial Optimization  
-- 💻 Technology Infrastructure & Automation  
-
-Currently advancing through **ALX Data Science** and hands-on projects.
+- 💻 Technology Infrastructure & Automation
 
 ---
 
