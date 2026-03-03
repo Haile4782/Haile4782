@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Haile4782/Haile4782/main/banner.png)
+![Banner](https://raw.githubusercontent.com/Haile4782/Haile4782/main/banner.png.png)
 
 # 👋 Hi, I'm Haiyleyesus Abayneh
 
