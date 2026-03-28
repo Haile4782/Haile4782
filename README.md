@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/Haile4782/Haile4782/main/banner.png.png)
 
-# 👋 Hi, I'm Haiyleyesus Abayneh
+# 👋 Hi, I'm Haiyleyesus A. Belay
 
 **Engineering Data Analyst | Aspiring Data Scientist & ML Engineer | Technology Worker**  
 📍 Addis Ababa, Ethiopia  
