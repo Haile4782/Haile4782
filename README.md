@@ -55,7 +55,7 @@ With a foundation in **Electrical & Computer Engineering**, I’m passionate abo
 
 ## 📊 Projects
 - ✈️ [US Airline Performance Analysis](https://github.com/Haile4782/us-airline-analysis-eda)  
-- 🚬 [Addiction Behavior Analysis](https://github.com/Haile4782/addiction_analysis))  
+- 🚬 [Addiction Behavior Analysis](https://github.com/Haile4782/addiction_analysis)  
 - ⚙️ Production Automation System (Google Sheets + JS)  
 - 💧 Maji Ndogo Water Infrastructure Analysis (SQL + Power BI)
 
